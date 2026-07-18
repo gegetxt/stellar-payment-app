@@ -34,7 +34,7 @@ cüzdan bağla/kes, bakiye göster, XLM gönder, işlem geri bildirimi göster.
 - Hata mesajları kullanıcı diliyle, teknik jargonsuz Türkçe
 - Freighter Testnet'te değilse uyarı göster (getNetwork ile kontrol)
 - Hesap fonlanmamışsa (Horizon 404) Friendbot linki göster
-- UI metinleri Türkçe; kod, değişken adları ve commit mesajları İngilizce
+- Tüm UI metinleri, kod, değişken adları ve commit mesajları İngilizce
 - Kod yorumları minimum; kendini açıklayan isimlendirme tercih et
 
 ## Yapma listesi
