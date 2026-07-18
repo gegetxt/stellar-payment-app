@@ -2,6 +2,8 @@
 
 # Stellar Payment dApp
 
+## Project Description
+
 Stellar Payment dApp is a Simple Payment dApp for sending XLM on the Stellar Testnet with the Freighter wallet. It was built as a Stellar White Belt (Level 1) challenge project and focuses on the core wallet, balance, payment, and transaction feedback flow.
 
 The app connects to Freighter, reads the user's Testnet XLM balance from Horizon, builds and signs payment transactions, submits them to the Stellar Testnet, and shows clear success or error feedback.
@@ -22,7 +24,7 @@ The app connects to Freighter, reads the user's Testnet XLM balance from Horizon
 - `@stellar/stellar-sdk`
 - `@stellar/freighter-api`
 
-## Setup
+## Setup Instructions
 
 1. Clone the repository:
 
@@ -69,6 +71,6 @@ The app connects to Freighter, reads the user's Testnet XLM balance from Horizon
 | --- | --- |
 | Wallet connected | ![Wallet connected](docs/screenshots/wallet-connected.png) |
 | Balance displayed | ![Balance displayed](docs/screenshots/balance-displayed.png) |
-| Transaction result shown to user | ![Transaction result shown to user](docs/screenshots/tx-result.png) |
-| Successful testnet transaction on Stellar Expert | ![Successful testnet transaction on Stellar Expert](docs/screenshots/tx-success-explorer.png) |
+| Successful testnet transaction | ![Successful testnet transaction](docs/screenshots/tx-success-explorer.png) |
+| Transaction result shown to the user | ![Transaction result shown to the user](docs/screenshots/tx-result.png) |
 | Error handling - rejected signature | ![Error handling - rejected signature](docs/screenshots/error-handling.png) |
