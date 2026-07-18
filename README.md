@@ -1,4 +1,4 @@
-# Live Demo: [URL coming soon]
+# Live Demo: [https://stellar-payment-app-six.vercel.app/](https://stellar-payment-app-six.vercel.app/)
 
 # Stellar Payment dApp
 
